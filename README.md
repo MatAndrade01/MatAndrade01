@@ -1,16 +1,13 @@
-### Hi there 👋
+Oieee👋, eu sou ✨ Matheus Andrade ✨, atualmente estudante de Análise e Desenvolvimento de Sistemas.
 
-<!--
-**MatAndrade01/MatAndrade01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• 🔭 Atualmente trabalho na área de suporte de TI
 
-Here are some ideas to get you started:
+• 🌱 Atualmente estou aprendendo lógica de programação e me aventurnado nesse novo mundo 🌎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 🤔 Estou procurando ajuda em lógica de programação,networking e tudo que abrange toda esse mundo ✨
+
+• 📫 Como me encontrar: ltbmatheus141012@gmail.com
+
+• 😄 Prónomes: ele/ele
+
+•⚡ Curiosidade: Nunca desisto dos meus objetivos

@@ -18,10 +18,10 @@ Oieee👋, eu sou ✨ Matheus Andrade ✨, atualmente estudante de Análise e De
  
 <div> 
 
-<div align="center">
+<div style="display: flex">
   <a href="https://github.com/MatAndrade01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatAndrade01&show_icons=true&theme=codeSTACKr"/>
-  <img align="center" height="198" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatAndrade01&layout=vue-dark"/>
+  <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=MatAndrade01&show_icons=true&theme=codeSTACKr"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatAndrade01&layout=compact"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Python" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">

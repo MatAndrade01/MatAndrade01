@@ -18,7 +18,7 @@ Oieee👋, eu sou ✨ Matheus Andrade ✨, atualmente estudante de Análise e De
  
 <div> 
   <div style="display: flex">
-  <a href="https://github.com/marciogui12">
+  <a href="https://github.com/MatAndrade01">
   <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=MatAndrade&show_icons=true&theme=codeSTACKr"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatAndrade&layout=compact"/>
 </div>

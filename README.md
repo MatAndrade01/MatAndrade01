@@ -1,36 +1,24 @@
-Oieee👋, eu sou ✨ Matheus Andrade ✨, atualmente estudante de Análise e Desenvolvimento de Sistemas.
+### Olá, me chamo Matheus Andrade ✋ <br>
 
-• 🔭 Atualmente trabalho na área de suporte de TI
+<hr>
 
-• 🌱 Atualmente estou aprendendo lógica de programação e me aventurando nesse novo mundo 🌎
+<a href="https://www.linkedin.com/in/marcio-guilherme-259923234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:ltbmatheus141012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <br>
 
-• 🤔 Estou procurando ajuda em lógica de programação,networking e tudo que abrange todo esse mundo ✨
-
-• 📫 Como me encontrar: ltbmatheus141012@gmail.com
-
-• 😄 Prónomes: ele/ele
-
-•⚡ Curiosidade: Nunca desisto dos meus objetivos
+<hr>
 
 </div>
-  
-  ##
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatAndrade01&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatAndrade01)](https://github.com/MatAndrade01/github-readme-stats)
  
-<div> 
-  <div style="display: flex">
-  <a href="https://github.com/MatAndrade01">
+<hr>
 
+<div style="display:inline_block">
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Matheus-Python" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  
-</div>
-  
-  ##
- 
-<div> 
-  
-   <a href = "mailto:ltbmatheus141012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <!--<a href="https://www.linkedin.com/in/marcio-guilherme-259923234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>--!>
-
+<hr>
